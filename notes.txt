@@ -1,1 +1,2 @@
 to take screenshot we use fn and prtsc and write anything
+it is very much helpful
